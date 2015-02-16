@@ -51,7 +51,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-	    text-shadow: 0 1px white;
+	    text-shadow: 0 1px #DADADA;
 		background: #fff;
 		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
