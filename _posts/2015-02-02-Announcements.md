@@ -3,7 +3,7 @@ title: "Announcements"
 bg: gray-blue     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
 style: justified
-fa-icon: comment
+fa-icon: facebook
 ---
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
