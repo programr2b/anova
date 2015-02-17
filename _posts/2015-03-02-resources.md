@@ -56,6 +56,33 @@ fa-icon: external-link
                 Gordon Sakamoto. The USAF dojo in Arlington.
             </p>
         </div>
+        
+        <div class="col-xs-3" style="text-align:justify;">
+             <h2>Forms</h2>
+
+            <p>
+
+                <a href="http://www.asu.org/">Aikido Schools of Ueshiba</a>.  This site provides information regarding the Aikido Schools of Ueshiba, an international federation of more than ninety dojos, of which Aikido of Northern Virginia is a member. Two thousand students train through these ASU schools. Mitsugi Saotome Shihan is the master instructor for ASU. The ASU is affiliated with <a href="http://www.aikikai.org/index-e.htm">World Aikido Headquarters</a> in Tokyo, Japan.
+
+            </p>
+
+
+
+            <p>
+
+                <b>ASU Handbook.</b> The third editon of the ASU Handbook is available as a .PDF file in <a href="asuhandbookbw.pdf">low-bandwidth</a> and <a href="asuhandbook.pdf">high-bandwidth</a> version. (<i>NOTE: The handbooks require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
+
+            </p>
+
+
+
+            <p>
+
+                <b>Yudansha Application Forms.</b> Students testing for Shodan need to submit a <a href="DanApplication1.pdf">Application for Dan Grades</a> and <a href="passport1.pdf">Application for International Yudansha Card (Passport)</a> to ASU. Further details are contained in this <a href="asu_shodan_ltr.pdf">letter</a> from ASU Headquarters. (<i>NOTE: These are <a href="javascript:void(populate())"><i>fillable</i></a> forms and require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
+
+            </p>
+
+        </div>
         <div class="col-xs-3" style="text-align:justify;">
             <h2>Suppliers</h2>
 
@@ -210,9 +237,6 @@ fa-icon: external-link
                 <a href="mailto:janet@zanshinart.com">Janet Rosen</a>
 
             </p>
-
-
-
         </div>
     </div>
 </div>
