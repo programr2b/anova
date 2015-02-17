@@ -7,7 +7,7 @@ fa-icon: external-link
 ---
 <div class="container">
     <div class="row">
-        <div class="col-xs-3" style="text-align:justify;">
+        <div class="col-xs-3" >
             <h2>Other Local ASU Dojos</h2>
 
             <p>
@@ -20,7 +20,7 @@ fa-icon: external-link
                 Charles Page &amp; Chuck Weber
             </p>
         </div>
-        <div class="col-xs-3" style="text-align:justify;">
+        <div class="col-xs-3" >
             <h2>Other Dojos in the Area</h2>
 
             <p>
@@ -57,7 +57,7 @@ fa-icon: external-link
             </p>
         </div>
         
-        <div class="col-xs-3" style="text-align:justify;">
+        <div class="col-xs-3" >
              <h2>Forms</h2>
 
             <p>
@@ -83,7 +83,7 @@ fa-icon: external-link
             </p>
 
         </div>
-        <div class="col-xs-3" style="text-align:justify;">
+        <div class="col-xs-3" >
             <h2>Suppliers</h2>
 
             <!--
