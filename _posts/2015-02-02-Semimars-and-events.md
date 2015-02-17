@@ -28,4 +28,20 @@ Daily, Sunday: $60
 
 Space is limited and advance registration and payment is strongly encouraged.
 
-Registration Form NOTE: The registration form requires Adobe Acrobat Reader.
+[Registration Form](http://www.aikido-nova.org/doran2015.pdf) NOTE: The registration form requires Adobe Acrobat Reader.
+
+##Facebook event
+
+  <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+  
+  
+<div id="main">
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3">
+<div class="fb-post" data-href="https://www.facebook.com/AikidoNOVA/posts/942346052444887" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/AikidoNOVA/posts/942346052444887">Post</a> by <a href="https://www.facebook.com/AikidoNOVA">Aikido of Northern Virginia</a>.</div></div>
+        </div>
+    </div>
+</div>
+
+
