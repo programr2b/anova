@@ -2,7 +2,7 @@
 title: "Announcements"
 bg: gray-blue     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
-style: justify
+style: center
 fa-icon: facebook
 ---
 <div id="fb-root"></div>
@@ -15,11 +15,19 @@ fa-icon: facebook
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
+Please like our [facebook page](https://www.facebook.com/AikidoNOVA) for real-time announcements and updates.  
+
+For your convenience you can find the announcements posted below.  
+(Click inside the panel, to scroll)
+
+
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
-            <div style="margin:auto; background-color: whitesmoke;">
-            <div class="fb-like-box" data-href="https://www.facebook.com/AikidoNova" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+            <div class='embed-container no-scroll'>
+                <div style="margin:auto; background-color: whitesmoke;">
+                <div class="fb-like-box" data-href="https://www.facebook.com/AikidoNova" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+                </div>
             </div>
         </div>
     </div>

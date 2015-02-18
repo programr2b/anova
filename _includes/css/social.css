@@ -22,9 +22,11 @@
     width: 100% !important;
 }
 
-.scrolloff {
+
+.no-scroll iframe{
     pointer-events: none;
 }
+
 /* Responsive iFrame */
  
 .responsive-iframe-container {

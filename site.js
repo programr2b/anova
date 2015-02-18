@@ -91,8 +91,8 @@ $(document).ready(function (){
         }
 	});
 	
-	$('.maps').click(function () {
-        $('.maps iframe').css("pointer-events", "auto");
+	$('.no-scroll').click(function () {
+        $('.no-scroll iframe').css("pointer-events", "auto");
     });
 
 });
