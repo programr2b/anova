@@ -28,22 +28,28 @@ Daily, Sunday: $60
 
 Space is limited and advance registration and payment is strongly encouraged.
 
-[Registration Form](http://www.aikido-nova.org/doran2015.pdf) NOTE: The registration form requires Adobe Acrobat Reader.
+##Registration form
+
+<div class="center">
+<p>
+<a href="http://www.aikido-nova.org/doran2015.pdf">Click here</a>.<br>
+NOTE: The registration form requires Adobe Acrobat Reader.
+</p>
+</div>
 
 ##Facebook event
 
-  <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-  
-  
-<div id="main">
-<div class="container">
-    <div class="row">
-        <div class="col-sm-6 col-sm-offset-3">
-            <div class="responsive-iframe-container">
-<div class="fb-post" data-href="https://www.facebook.com/AikidoNOVA/posts/942346052444887" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/AikidoNOVA/posts/942346052444887">Post</a> by <a href="https://www.facebook.com/AikidoNOVA">Aikido of Northern Virginia</a>.</div></div>
-            </div>
-        </div>
-    </div>
-</div>
 
+<div class="center">
+
+<p>
+We have a facebook event for this seminar. <br>
+Please join the event on facebook for updates<br>
+<a href="https://www.facebook.com/events/1613387765555185/?ref_newsfeed_story_type=regular">
+<i class="fa fa-facebook-square fa-4x" style="margin-top:15px;margin-bottom:15px"></i><br>
+Seminar with Frank Doran sensei, 7th dan, Shihan on Facebook.
+</a>
+</p>
+
+</div>
 

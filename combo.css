@@ -4,4 +4,5 @@
 {% include css/skeleton.css %}
 {% include css/main.css %}
 {% include css/social.css %}
+{% include css/bootstrap-responsive.css %}
 {% include css/bootstrap-grid.css %}
