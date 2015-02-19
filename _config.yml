@@ -16,7 +16,7 @@ exclude: [vendor]
 
 
 ### content configuration ###
-title:       "Aikido of Norther Virginia"
+title:       "Aikido of Northern Virginia"
 keywords:    "aikido, ASU, northern virginia, asu, aikido schools of ueshiba, ueshiba, virginia, northern"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"

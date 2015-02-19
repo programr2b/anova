@@ -2,7 +2,7 @@
 layout: stand-alone
 title: "Children and Aikido"
 ---
-Aikido of Northern Virginia does not teach children under the age of 16. Our headquarters school in northwest Washington, DC, Aikido Shobukan Dojo, has a children's class with a minimum age of seven. Please visit their [web site](www.aikido-shobukan.org) for more information.
+Aikido of Northern Virginia does not teach children under the age of 16. Our headquarters school in northwest Washington, DC, Aikido Shobukan Dojo, has a children's class with a minimum age of seven. Please visit their [web site](http://www.aikido-shobukan.org) for more information.
 
 I do not believe aikido is appropriate for young children, for two reasons. First, aikido techniques, even applied gently, put stress on the joints. As many former gymnasts and ballet dancers can testify, too much stress on the joints at an early age leads to trouble later on in life. Second, aikido is a complex art. Even disciplined, motivated adults find it quite challenging to learn. In my experience, children do not yet have the ability or the motivation to concentrate at the level necessary to gain anything from the average one-hour aikido class.
 

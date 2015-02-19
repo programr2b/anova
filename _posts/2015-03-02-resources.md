@@ -70,7 +70,7 @@ fa-icon: external-link
 
             <p>
 
-                <b>ASU Handbook.</b> The third editon of the ASU Handbook is available as a .PDF file in <a href="asuhandbookbw.pdf">low-bandwidth</a> and <a href="asuhandbook.pdf">high-bandwidth</a> version. (<i>NOTE: The handbooks require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
+                <b>ASU Handbook.</b> The third editon of the ASU Handbook is available as a .PDF file in <a href="http://aikido-nova.org/asuhandbookbw.pdf">low-bandwidth</a> and <a href="asuhandbook.pdf">high-bandwidth</a> version. (<i>NOTE: The handbooks require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
 
             </p>
 
@@ -78,7 +78,7 @@ fa-icon: external-link
 
             <p>
 
-                <b>Yudansha Application Forms.</b> Students testing for Shodan need to submit a <a href="DanApplication1.pdf">Application for Dan Grades</a> and <a href="passport1.pdf">Application for International Yudansha Card (Passport)</a> to ASU. Further details are contained in this <a href="asu_shodan_ltr.pdf">letter</a> from ASU Headquarters. (<i>NOTE: These are <a href="javascript:void(populate())"><i>fillable</i></a> forms and require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
+                <b>Yudansha Application Forms.</b> Students testing for Shodan need to submit a <a href="http://aikido-nova.org/DanApplication1.pdf">Application for Dan Grades</a> and <a href="http://aikido-nova.org/passport1.pdf">Application for International Yudansha Card (Passport)</a> to ASU. Further details are contained in this <a href="http://aikido-nova.org/asu_shodan_ltr.pdf">letter</a> from ASU Headquarters. (<i>NOTE: These are <a href="javascript:void(populate())"><i>fillable</i></a> forms and require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
 
             </p>
 
