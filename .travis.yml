@@ -7,3 +7,5 @@ rvm:
 - 2.1
 - 2.0
 script: scripts/buildJekyll.sh
+after_success:
+    "scripts/uploadViaFTP.sh"
