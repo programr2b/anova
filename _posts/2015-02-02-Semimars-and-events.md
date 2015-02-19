@@ -39,7 +39,9 @@ Space is limited and advance registration and payment is strongly encouraged.
 <div class="container">
     <div class="row">
         <div class="col-sm-6 col-sm-offset-3">
+            <div class="responsive-iframe-container">
 <div class="fb-post" data-href="https://www.facebook.com/AikidoNOVA/posts/942346052444887" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/AikidoNOVA/posts/942346052444887">Post</a> by <a href="https://www.facebook.com/AikidoNOVA">Aikido of Northern Virginia</a>.</div></div>
+            </div>
         </div>
     </div>
 </div>
