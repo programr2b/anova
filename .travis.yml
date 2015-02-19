@@ -1,1 +1,4 @@
 ### Base travis config file
+language: ruby
+rvm:
+    - 1 9.3
