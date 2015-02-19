@@ -62,7 +62,7 @@ fa-icon: external-link
 
             <p>
 
-                <a href="http://www.asu.org/">Aikido Schools of Ueshiba</a>.  This site provides information regarding the Aikido Schools of Ueshiba, an international federation of more than ninety dojos, of which Aikido of Northern Virginia is a member. Two thousand students train through these ASU schools. Mitsugi Saotome Shihan is the master instructor for ASU. The ASU is affiliated with <a href="http://www.aikikai.org/index-e.htm">World Aikido Headquarters</a> in Tokyo, Japan.
+                <a href="http://www.asu.org/">Aikido Schools of Ueshiba</a>.  This site provides information regarding the Aikido Schools of Ueshiba, an international federation of more than ninety dojos, of which Aikido of Northern Virginia is a member. Two thousand students train through these ASU schools. Mitsugi Saotome Shihan is the master instructor for ASU. The ASU is affiliated with <a href="http://www.aikikai.or.jp/eng/">World Aikido Headquarters</a> in Tokyo, Japan.
 
             </p>
 
@@ -70,7 +70,7 @@ fa-icon: external-link
 
             <p>
 
-                <b>ASU Handbook.</b> The third editon of the ASU Handbook is available as a .PDF file in <a href="http://aikido-nova.org/asuhandbookbw.pdf">low-bandwidth</a> and <a href="asuhandbook.pdf">high-bandwidth</a> version. (<i>NOTE: The handbooks require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
+                <b>ASU Handbook.</b> The third editon of the ASU Handbook is available as a .PDF file in <a href="http://aikido-nova.org/asuhandbookbw.pdf">low-bandwidth</a> and <a href="http://aikido-nova.org/asuhandbook.pdf">high-bandwidth</a> version. (<i>NOTE: The handbooks require <a href="http://www.adobe.com/products/acrobat/readstep.html" target="_blank"> Adobe Acrobat Reader</a>.)</i>
 
             </p>
 
