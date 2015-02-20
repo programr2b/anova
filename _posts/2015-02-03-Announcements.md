@@ -24,7 +24,7 @@ For your convenience you can find the announcements posted below.
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-3">
-            <div class='embed-container no-scroll'>
+            <div class='embed-container'>
                 <div style="margin:auto; background-color: whitesmoke;">
                 <div class="fb-like-box" data-href="https://www.facebook.com/AikidoNova" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
                 </div>
