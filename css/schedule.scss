@@ -1,0 +1,27 @@
+---
+---
+
+$schedule-cell-padding: 5px;
+
+.schedule {
+
+    table {
+        margin: auto;
+        width: 100%;
+        font-size: 120%;
+    }
+    tr {
+        border-bottom: solid black 1px;
+
+    }
+    th {
+        font-weight: 700;
+        padding-top: $schedule-cell-padding;
+        padding-bottom: $schedule-cell-padding;
+    }
+    td {
+        padding-top: $schedule-cell-padding;
+        padding-bottom: $schedule-cell-padding;
+    }
+    
+}
