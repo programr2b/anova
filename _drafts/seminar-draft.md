@@ -32,7 +32,7 @@ Space is limited and advance registration and payment is strongly encouraged.
 
 <div class="center">
 <p>
-<a href="http://www.aikido-nova.org/doran2015.pdf">Click here</a>.<br>
+<a href="http://aikido-nova.org/threadgill2015.pdf">Click here</a>.<br>
 NOTE: The registration form requires Adobe Acrobat Reader.
 </p>
 </div>
