@@ -24,7 +24,7 @@ fa-icon: external-link
             <h2>Other Dojos in the Area</h2>
 
             <p>
-                <a href="http://www.aikidoofarlington.com/">Aikido of Arlington</a>
+                <a href="https://www.facebook.com/pages/Aikido-of-Arlington/231063569043">Aikido of Arlington</a>
                 <br>
 
                 Yvonne Thelwell. An Iwama Style dojo also located in Arlington.
